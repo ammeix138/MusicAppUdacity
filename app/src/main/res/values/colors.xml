@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Main Text color for the header's within the Activities of the app.-->
+    <color name="textcolor">#000000</color>
+
+    <!--Accent color for the button at the tup of the activities. Button include home, music library, downloads, artist list, my playlist's, now playing.-->
+    <color name="accentTextColor">#64B5F6</color>
+
+
+</resources>

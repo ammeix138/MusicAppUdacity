@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Music App Udacity</string>
+
+    <!--Displays the text for the Header of the main App.-->
+    <string name="jammin_music_header">Jammin Music</string>
+
+    <!--Displays the text for the header "Artist List".-->
+    <string name="artist_list">Artist List</string>
+
+    <!--Displays the text for the header "My Playlist's".-->
+    <string name="my_playlists">My Playlist\'s</string>
+
+    <!--Displays the text for the header "Download Music".-->
+    <string name="download_music">Download Music</string>
+
+    <!--Displays the text for the header "Now Playing".-->
+    <string name="now_playing">Now Playing</string>
+
+    <!--Displays the text for the header "Music Library".-->
+    <string name="music_library">Music Library</string>
+
+    <!--Displays the text for the "Home" button displayed in the activities.-->
+    <string name="home_button">Home</string>
+
+    <!--Displays the text for the actual "Artist Library" activity header.-->
+    <string name="artist_library_header">Artist Library</string>
+
+    <!--Displays the text for the "Click me for description button".-->
+    <string name="click_me_button">Click Me for activity description</string>
+
+    <!--Displays the text for the "Download Music Header" for the Download Music Activity.-->
+    <string name="download_music_header">Download Music</string>
+
+    <!--Displays the text for the header "Song Title" for the Music Library Activity.-->
+    <string name="song_title_header">Song Title</string>
+
+    <!--Displays the text for the header "My Playlist's" for the My Playlist Activity.-->
+    <string name="my_playlist_s_header">My Playlist\'s</string>
+
+    <!--Displays the header for the "Now Playing" for the Now Playing Activity.-->
+    <string name="now_playing_header">Now Playing</string>
+</resources>
